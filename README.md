@@ -18,4 +18,4 @@
 
 - Converting standard one to scientific one pressing a button named "변환"
 - Including trigonometric functions and some math signs
-- Based on the operations order
+- Based on operations order
