@@ -8,14 +8,18 @@
 
 > Java / Swing / Windowbuilder
 
+<br />
+
 ## Preview
 
 <img src="https://github.com/dyobi/JAVAPJT_CALCULATOR/blob/master/PREVIEW.png?raw=true" width="100%" title="preview" alt="preview">
 
----
+<br />
 
 ## Features
 
 - Converting standard one to scientific one pressing a button named "변환"
 - Including trigonometric functions and some math signs
 - Based on operations order
+
+<br />
