@@ -2,7 +2,7 @@
   <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2014/240/iconmonstr-calculator-1.png" width="200" height="200" title="header" alt="header">
 </a>
 
-# JAVAPJT_CALCULATOR
+# Java Swing Calculator
 
 > Java project making scientific calculator using prefix algorithm
 
